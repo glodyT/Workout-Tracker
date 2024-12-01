@@ -36,7 +36,7 @@ Node.js and npm installed
 Git installed
 
 **Steps**
-1. Clone the repository: git clone [https://github.com/your-repo/workout-tracker.git]
+1. Clone the repository: git clone https://github.com/glodyT/Workout-Tracker
 2. Navigate to the project directory: cd workout-tracker
 3. Install dependencies: npm install
 4. Start the development server: npm start
